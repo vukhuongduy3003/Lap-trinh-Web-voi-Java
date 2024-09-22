@@ -1,0 +1,232 @@
+18-Sep-2024 05:56:18.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.30
+18-Sep-2024 05:56:18.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 13 2024 20:26:16 UTC
+18-Sep-2024 05:56:18.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.30.0
+18-Sep-2024 05:56:18.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+18-Sep-2024 05:56:18.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Sep-2024 05:56:18.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Sep-2024 05:56:18.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\OpenJDK\jdk-17.0.2
+18-Sep-2024 05:56:18.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-86
+18-Sep-2024 05:56:18.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Sep-2024 05:56:18.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 05:56:18.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\logging.properties
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Sep-2024 05:56:18.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Sep-2024 05:56:18.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Sep-2024 05:56:18.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 05:56:18.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 05:56:18.399 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\temp
+18-Sep-2024 05:56:18.403 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+18-Sep-2024 05:56:18.411 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+18-Sep-2024 05:56:18.554 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Sep-2024 05:56:18.577 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [310] milliseconds
+18-Sep-2024 05:56:18.621 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Sep-2024 05:56:18.622 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.30]
+18-Sep-2024 05:56:18.640 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\docs]
+18-Sep-2024 05:56:18.962 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\docs] has finished in [322] ms
+18-Sep-2024 05:56:18.964 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\examples]
+18-Sep-2024 05:56:19.372 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\examples] has finished in [410] ms
+18-Sep-2024 05:56:19.372 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\host-manager]
+18-Sep-2024 05:56:19.405 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\host-manager] has finished in [33] ms
+18-Sep-2024 05:56:19.405 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\manager]
+18-Sep-2024 05:56:19.437 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\manager] has finished in [32] ms
+18-Sep-2024 05:56:19.437 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\ROOT]
+18-Sep-2024 05:56:19.458 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\ROOT] has finished in [21] ms
+18-Sep-2024 05:56:19.461 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Sep-2024 05:56:19.513 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [935] milliseconds
+18-Sep-2024 06:03:45.727 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml]
+18-Sep-2024 06:03:45.728 WARNING [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+18-Sep-2024 06:03:45.796 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has finished in [68] ms
+18-Sep-2024 06:03:45.799 INFO [http-nio-8080-exec-7] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+18-Sep-2024 06:04:57.804 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 06:04:58.085 INFO [http-nio-8080-exec-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 06:04:58.087 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 06:04:59.305 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 06:04:59.546 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 06:04:59.547 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 06:05:04.062 INFO [http-nio-8080-exec-12] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 06:05:04.287 INFO [http-nio-8080-exec-12] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 06:05:04.288 INFO [http-nio-8080-exec-12] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 06:05:41.912 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+18-Sep-2024 06:05:51.704 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml]
+18-Sep-2024 06:05:51.705 WARNING [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+18-Sep-2024 06:05:51.926 INFO [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 06:05:51.927 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has finished in [223] ms
+18-Sep-2024 06:05:51.929 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+18-Sep-2024 06:13:02.983 INFO [http-nio-8080-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 06:13:03.242 INFO [http-nio-8080-exec-19] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 06:13:03.243 INFO [http-nio-8080-exec-19] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 06:13:03.245 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 06:13:03.482 INFO [http-nio-8080-exec-21] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 06:13:03.484 INFO [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 06:14:22.011 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+18-Sep-2024 06:18:39.250 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+18-Sep-2024 06:18:39.250 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+18-Sep-2024 06:18:39.279 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+18-Sep-2024 06:18:39.290 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+18-Sep-2024 06:18:39.310 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+18-Sep-2024 21:00:48.934 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.30
+18-Sep-2024 21:00:48.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 13 2024 20:26:16 UTC
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.30.0
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\OpenJDK\jdk-17.0.2
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-86
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 21:00:48.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 21:00:48.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\logging.properties
+18-Sep-2024 21:00:48.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Sep-2024 21:00:48.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+18-Sep-2024 21:00:48.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+18-Sep-2024 21:00:48.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+18-Sep-2024 21:00:48.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+18-Sep-2024 21:00:48.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+18-Sep-2024 21:00:48.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+18-Sep-2024 21:00:48.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+18-Sep-2024 21:00:48.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 21:00:48.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30
+18-Sep-2024 21:00:48.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\temp
+18-Sep-2024 21:00:49.034 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+18-Sep-2024 21:00:49.062 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+18-Sep-2024 21:00:49.312 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+18-Sep-2024 21:00:49.346 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [617] milliseconds
+18-Sep-2024 21:00:49.401 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+18-Sep-2024 21:00:49.401 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.30]
+18-Sep-2024 21:00:49.409 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\docs]
+18-Sep-2024 21:00:49.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\docs] has finished in [541] ms
+18-Sep-2024 21:00:49.951 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\examples]
+18-Sep-2024 21:00:51.827 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\examples] has finished in [1,876] ms
+18-Sep-2024 21:00:51.828 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\host-manager]
+18-Sep-2024 21:00:51.957 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\host-manager] has finished in [128] ms
+18-Sep-2024 21:00:51.957 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\manager]
+18-Sep-2024 21:00:52.062 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\manager] has finished in [104] ms
+18-Sep-2024 21:00:52.064 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\ROOT]
+18-Sep-2024 21:00:52.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\webapps\ROOT] has finished in [99] ms
+18-Sep-2024 21:00:52.170 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+18-Sep-2024 21:00:52.337 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2990] milliseconds
+18-Sep-2024 21:00:54.914 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml]
+18-Sep-2024 21:00:54.919 WARNING [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+18-Sep-2024 21:00:55.421 INFO [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 21:00:55.427 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has finished in [513] ms
+18-Sep-2024 21:00:55.433 INFO [http-nio-8080-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
+18-Sep-2024 21:10:52.528 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 21:10:52.953 INFO [http-nio-8080-exec-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 21:10:52.956 INFO [http-nio-8080-exec-2] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 21:10:54.646 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 21:10:55.075 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 21:10:55.076 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 21:10:55.710 INFO [http-nio-8080-exec-12] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 21:10:56.135 INFO [http-nio-8080-exec-12] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 21:10:56.137 INFO [http-nio-8080-exec-12] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 21:14:16.002 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 21:14:16.002 WARNING [http-nio-8080-exec-17] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication1] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Sep-2024 21:14:16.006 WARNING [http-nio-8080-exec-17] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication1] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/java.lang.Object.wait(Native Method)
+ java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+18-Sep-2024 21:14:16.394 INFO [http-nio-8080-exec-17] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 21:14:16.397 INFO [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 21:14:16.399 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] has started
+18-Sep-2024 21:14:16.752 INFO [http-nio-8080-exec-20] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 21:14:16.754 INFO [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/WebApplication1] is completed
+18-Sep-2024 21:14:17.724 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:950)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:123)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:90)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+18-Sep-2024 21:25:08.888 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardWrapper.unload Waiting for [1] instance(s) to be deallocated for Servlet [controller.DeleteStudentServlet]
+18-Sep-2024 21:25:09.946 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardWrapper.unload Waiting for [1] instance(s) to be deallocated for Servlet [controller.DeleteStudentServlet]
+18-Sep-2024 21:25:11.019 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardWrapper.unload Waiting for [1] instance(s) to be deallocated for Servlet [controller.DeleteStudentServlet]
+18-Sep-2024 21:25:11.131 WARNING [http-nio-8080-exec-30] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebApplication1] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+18-Sep-2024 21:25:11.132 WARNING [http-nio-8080-exec-30] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication1] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.2/java.lang.Object.wait(Native Method)
+ java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+18-Sep-2024 21:25:11.134 WARNING [http-nio-8080-exec-30] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [WebApplication1] is still processing a request that has yet to finish. This is very likely to create a memory leak. You can control the time allowed for requests to finish by using the unloadDelay attribute of the standard Context implementation. Stack trace of request processing thread:[
+ java.base@17.0.2/sun.nio.ch.SocketDispatcher.read0(Native Method)
+ java.base@17.0.2/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:46)
+ java.base@17.0.2/sun.nio.ch.NioSocketImpl.tryRead(NioSocketImpl.java:261)
+ java.base@17.0.2/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:312)
+ java.base@17.0.2/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+ java.base@17.0.2/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+ java.base@17.0.2/java.net.Socket$SocketInputStream.read(Socket.java:966)
+ com.mysql.cj.protocol.ReadAheadInputStream.fill(ReadAheadInputStream.java:107)
+ com.mysql.cj.protocol.ReadAheadInputStream.readFromUnderlyingStreamIfNecessary(ReadAheadInputStream.java:150)
+ com.mysql.cj.protocol.ReadAheadInputStream.read(ReadAheadInputStream.java:180)
+ java.base@17.0.2/java.io.FilterInputStream.read(FilterInputStream.java:132)
+ com.mysql.cj.protocol.FullReadInputStream.readFully(FullReadInputStream.java:64)
+ com.mysql.cj.protocol.a.SimplePacketReader.readHeaderLocal(SimplePacketReader.java:81)
+ com.mysql.cj.protocol.a.SimplePacketReader.readHeader(SimplePacketReader.java:63)
+ com.mysql.cj.protocol.a.SimplePacketReader.readHeader(SimplePacketReader.java:45)
+ com.mysql.cj.protocol.a.TimeTrackingPacketReader.readHeader(TimeTrackingPacketReader.java:52)
+ com.mysql.cj.protocol.a.TimeTrackingPacketReader.readHeader(TimeTrackingPacketReader.java:41)
+ com.mysql.cj.protocol.a.MultiPacketReader.readHeader(MultiPacketReader.java:54)
+ com.mysql.cj.protocol.a.MultiPacketReader.readHeader(MultiPacketReader.java:44)
+ com.mysql.cj.protocol.a.NativeProtocol.readMessage(NativeProtocol.java:575)
+ com.mysql.cj.protocol.a.NativeProtocol.checkErrorMessage(NativeProtocol.java:761)
+ com.mysql.cj.protocol.a.NativeProtocol.sendCommand(NativeProtocol.java:700)
+ com.mysql.cj.protocol.a.NativeProtocol.sendQueryPacket(NativeProtocol.java:1051)
+ com.mysql.cj.NativeSession.execSQL(NativeSession.java:665)
+ com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:893)
+ com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1061)
+ com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1009)
+ com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1320)
+ com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:994)
+ model.DBconnect.Delete(DBconnect.java:70)
+ controller.DeleteStudentServlet.doGet(DeleteStudentServlet.java:22)
+ jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+ jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+ org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+ org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+ org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+ org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+ org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+ org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+ org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+ org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+ org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+ org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+ org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:663)
+ org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+ org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+ org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384)
+ org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+ org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+ org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+ org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+ org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+ org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+ java.base@17.0.2/java.lang.Thread.run(Thread.java:833)]
+18-Sep-2024 21:25:11.691 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/WebApplication1]
+18-Sep-2024 21:25:12.044 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:950)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:123)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:90)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+18-Sep-2024 21:25:17.550 INFO [http-nio-8080-exec-32] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml]
+18-Sep-2024 21:25:17.557 WARNING [http-nio-8080-exec-32] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+18-Sep-2024 21:25:18.006 INFO [http-nio-8080-exec-32] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+18-Sep-2024 21:25:18.009 INFO [http-nio-8080-exec-32] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\UNETI\Lap-trinh-Web-voi-Java\apache-tomcat-10.1.30\conf\Catalina\localhost\WebApplication1.xml] has finished in [460] ms
+18-Sep-2024 21:25:18.024 INFO [http-nio-8080-exec-36] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication1]] after start() had already been called. The second call will be ignored.
